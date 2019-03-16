@@ -1,2 +1,2 @@
-# GoogleBookSearch
-A web application that allows a user to search a comprehensive index of full text-books and receive relevant results based on a query. Each query returns the author, title, publisher, and preview. Each of these will direct the user to more information about the book such as price, available vendors selling the book such as Amazon or Barnes &amp; Noble, the ability to read user reviews or purchase the book online as an Ebook plus more!.
+# Create React Express App
+
