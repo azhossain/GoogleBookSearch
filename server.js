@@ -16,7 +16,7 @@ if (process.env.NODE_ENV === "production") {
 // Define API routes here
 app.use(routes);
 
-require("dotenv").load();
+//require("dotenv").load();
 
 mongoose.connect(process.env.MONGODB_URI || process.env.LOCAL_MONGO_URI, {
   useNewUrlParser: true
